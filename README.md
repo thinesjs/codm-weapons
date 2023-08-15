@@ -14,7 +14,7 @@ The repository contains the weapons and its list of attachment name and types in
 
 Contributions are always welcome!
 
-You may contact me or fork this repository and add the guns which are missing. 
+You may contact me or pr this repository and add the guns which are missing. 
 
 Please adhere to this project's `code of conduct`.
 
